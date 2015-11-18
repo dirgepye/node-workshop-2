@@ -1,3 +1,5 @@
 var yourFortune = require('./library/fortune.js').fortune;
 
-yourFortune();
+for (var i = 0; i < process.argv[2]; i++ ) {
+    yourFortune();
+}
