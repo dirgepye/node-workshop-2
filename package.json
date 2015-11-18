@@ -1,0 +1,26 @@
+{
+  "name": "cool-package",
+  "version": "0.0.1",
+  "description": "coolest, biggest package you've ever seen",
+  "main": "cool-package",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dirgepye/node-workshop-2.git"
+  },
+  "keywords": [
+    "cool",
+    "package",
+    "awesome",
+    "kanye",
+    "2020"
+  ],
+  "author": "shawn stenhouse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dirgepye/node-workshop-2/issues"
+  },
+  "homepage": "https://github.com/dirgepye/node-workshop-2#readme"
+}
